@@ -1,1 +1,2 @@
-# Apple Clone Website built with gsap,ReactJs and ThreeJs.
+# Apple Clone Website
+built apple clone website to enhance my skills on <b>ReactJS</>,GSAP and ThreeJs.
